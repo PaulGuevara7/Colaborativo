@@ -21,7 +21,9 @@ public class deber {
         System.out.println("Sergio Escobar");
         System.out.println("Paul Guevara");
         System.out.println("Desarrollo de  Software");
-        System.out.println("Segundo Semestre");
+        // finalizado
+        
+        
     }
     
 }
